@@ -8,6 +8,8 @@
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--2787--8687-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-2787-8687)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=FqvNA5IAAAAJ&hl=en)
+[![Scopus](https://img.shields.io/badge/Scopus-Author%20ID%2042861558800-E9711C)](https://www.scopus.com/authid/detail.uri?authorId=42861558800)
+[![Web of Science](https://img.shields.io/badge/ResearcherID-F--6820--2017-5B2C6F)](http://www.researcherid.com/rid/F-6820-2017)
 [![University of Tehran](https://img.shields.io/badge/University%20of%20Tehran-Academic%20Profile-1f4e79)](https://profile.ut.ac.ir/en/~goorabi)
 
 </div>
@@ -65,9 +67,13 @@ This profile is being developed as a curated academic portfolio. Public reposito
 
 ## Academic Profiles & Contact
 
-- **University of Tehran:** [Academic Profile](https://profile.ut.ac.ir/en/~goorabi)
-- **Google Scholar:** [Publications & Citations](https://scholar.google.com/citations?user=FqvNA5IAAAAJ&hl=en)
-- **ORCID:** [0000-0002-2787-8687](https://orcid.org/0000-0002-2787-8687)
+| Academic identity | Identifier / profile |
+| --- | --- |
+| **University of Tehran** | [Official Academic Profile](https://profile.ut.ac.ir/en/~goorabi) |
+| **ORCID** | [0000-0002-2787-8687](https://orcid.org/0000-0002-2787-8687) |
+| **Google Scholar** | [Publications & Citations](https://scholar.google.com/citations?user=FqvNA5IAAAAJ&hl=en) |
+| **Scopus** | [Author ID: 42861558800](https://www.scopus.com/authid/detail.uri?authorId=42861558800) |
+| **Web of Science / ResearcherID** | [F-6820-2017](http://www.researcherid.com/rid/F-6820-2017) |
 
 ---
 
