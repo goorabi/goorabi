@@ -1,22 +1,33 @@
-# Aboghasem Goorabi
+# Abolghasem Goorabi
 
-### Geomorphology · Remote Sensing · GIS · InSAR · Land Subsidence
+### Associate Professor of Geomorphology | University of Tehran
 
-I am a researcher in **physical geography and geomorphology**, with research interests centered on the analysis of Earth-surface processes through **remote sensing, GIS, InSAR, and spatial data analysis**.
+**Geomorphology · Morphotectonics · Remote Sensing · GIS · InSAR · Geohazards**
 
-My work focuses particularly on understanding **land subsidence**, its spatial and temporal patterns, and its geomorphological consequences. I am interested in integrating satellite observations, geospatial modelling, and reproducible computational workflows to investigate environmental change and geohazards.
+I am an **Associate Professor at the Faculty of Geography, University of Tehran**, working in geomorphology and Earth-surface analysis. My academic background includes a Ph.D. from the University of Tehran with a focus on **morphotectonics**, graduate study in geomorphology, and an undergraduate background in geology.
 
----
+My research integrates **geomorphology, morphotectonics, remote sensing, GIS, InSAR, and spatial analysis** to investigate landscape evolution, active tectonics, ground deformation, environmental change, and geohazards. A particular area of current interest is land subsidence and the interpretation of its spatial and temporal patterns and geomorphological consequences.
+
+## Academic Profiles
+
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--2787--8687-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-2787-8687)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Abolghasem%20Goorabi-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=FqvNA5IAAAAJ&hl=en)
+[![University of Tehran](https://img.shields.io/badge/University%20of%20Tehran-Academic%20Profile-1f4e79)](https://profile.ut.ac.ir/en/~goorabi)
+
+- **ORCID:** [0000-0002-2787-8687](https://orcid.org/0000-0002-2787-8687)
+- **Google Scholar:** [Research profile](https://scholar.google.com/citations?user=FqvNA5IAAAAJ&hl=en)
+- **Institutional profile:** [University of Tehran Research Profile](https://profile.ut.ac.ir/en/~goorabi)
 
 ## Research Interests
 
 - Geomorphology and Earth-surface processes
+- Morphotectonics and active tectonics
 - Land subsidence and ground deformation
 - Interferometric Synthetic Aperture Radar (**InSAR**)
 - Persistent Scatterer InSAR (**PS-InSAR**)
 - Sentinel-1 time-series analysis
-- Geographic Information Systems (**GIS**)
 - Remote sensing and Earth observation
+- Geographic Information Systems (**GIS**)
 - Spatial hazard, exposure, sensitivity, and risk assessment
 - Geospatial and time-series data analysis
 - Reproducible geoscience workflows
@@ -24,38 +35,46 @@ My work focuses particularly on understanding **land subsidence**, its spatial a
 ## Methods & Tools
 
 **Earth Observation & InSAR**  
-Sentinel-1 · PS-InSAR · LiCSBAS · SARPROZ
+Sentinel-1 · InSAR · PS-InSAR · LiCSBAS · SARPROZ
 
 **Geospatial Analysis**  
-GIS · spatial analysis · raster/vector processing · cartography · spatial modelling
+GIS · spatial analysis · raster/vector processing · cartography · spatial modelling · DEM analysis
 
 **Scientific Computing**  
 Python · data analysis · statistical analysis · scientific visualization · reproducible workflows
 
+## Academic Background
+
+- **Associate Professor**, Faculty of Geography, University of Tehran
+- **Ph.D.**, University of Tehran — Morphotectonics
+- Graduate education in **Geomorphology**
+- Undergraduate education in **Geology**, Shahid Beheshti University
+
 ## Current Research Focus
 
-A major focus of my research is the integration of multi-temporal InSAR observations with geomorphological and GIS-based analyses to investigate land-subsidence patterns and their consequences. This includes the interpretation of deformation time series and the spatial assessment of relationships among subsidence, environmental conditions, exposed elements, and substrate sensitivity.
+A major focus of my current research is the integration of multi-temporal Earth-observation data with geomorphological and GIS-based analyses. This includes deformation time-series interpretation, land-subsidence assessment, morphotectonic analysis, and spatial investigation of relationships among geohazards, environmental conditions, exposed elements, and landscape sensitivity.
 
-## Research Philosophy
+## Reproducible Research
 
-I aim to develop research workflows that are **transparent, reproducible, spatially explicit, and scientifically defensible**. Where publication and data-licensing conditions permit, this profile will provide documented code, analytical workflows, and selected research outputs that support reproducibility and reuse.
+I aim to develop research workflows that are **transparent, reproducible, spatially explicit, and scientifically defensible**. Where publication, ethical, and data-licensing conditions permit, this GitHub profile will provide documented code, analytical workflows, and selected research outputs to support verification, reuse, and scientific collaboration.
 
 ## Selected Projects
 
-Research repositories will be added progressively. Planned public repositories will focus on:
+Research repositories will be added progressively, with emphasis on:
 
 - InSAR and land-subsidence analysis
-- GIS-based spatial risk assessment
-- Geomorphological spatial analysis
+- Geomorphology and morphotectonic analysis
+- GIS-based spatial hazard and risk assessment
 - Sentinel-1 time-series workflows
-- Reproducible Python tools for geoscience
+- DEM-based geomorphometric analysis
+- Reproducible Python workflows for geoscience
 
-> **Research data policy:** unpublished, confidential, restricted, or third-party datasets are not made public. Public repositories contain only material suitable for open scientific dissemination.
+> **Research data policy:** unpublished, confidential, restricted, student-sensitive, or third-party datasets are not made public. Public repositories contain only material appropriate for open scientific dissemination.
 
 ---
 
-### Collaboration
+### Research Collaboration
 
-I am interested in research collaboration involving **geomorphology, land subsidence, InSAR, remote sensing, GIS, geohazards, and spatial environmental analysis**.
+I welcome scientific collaboration in **geomorphology, morphotectonics, active tectonics, land subsidence, InSAR, remote sensing, GIS, geohazards, and spatial environmental analysis**.
 
-*This profile is being developed as a curated record of research code, reproducible workflows, and selected scientific outputs.*
+*This profile serves as a curated record of research code, reproducible workflows, and selected scientific outputs.*
