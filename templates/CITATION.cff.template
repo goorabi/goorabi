@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this research repository, please cite it using the metadata below."
+title: "<Repository title>"
+type: software
+authors:
+  - family-names: "Goorabi"
+    given-names: "Abolghasem"
+    orcid: "https://orcid.org/0000-0002-2787-8687"
+repository-code: "https://github.com/goorabi/<repository-name>"
+url: "https://github.com/goorabi/<repository-name>"
+version: "<release-version>"
+date-released: "<YYYY-MM-DD>"
+license: "<SPDX-license-identifier-after-rights-review>"
+
+# For a repository associated with a journal article, add preferred-citation
+# only after verifying the final bibliographic metadata and DOI.
+#
+# preferred-citation:
+#   type: article
+#   authors:
+#     - family-names: "Goorabi"
+#       given-names: "Abolghasem"
+#       orcid: "https://orcid.org/0000-0002-2787-8687"
+#   title: "<Article title>"
+#   journal: "<Journal>"
+#   year: <YYYY>
+#   doi: "<DOI>"
