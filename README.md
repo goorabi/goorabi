@@ -84,3 +84,5 @@ This profile is being developed as a curated academic portfolio. Public reposito
 <sub>Academic research · reproducible geoscience · open scientific workflows</sub>
 
 </div>
+
+<!-- Signed academic profile commit -->
