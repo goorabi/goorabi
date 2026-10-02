@@ -1,0 +1,68 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+env/
+.conda/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Secrets / local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials*
+secrets*
+
+# Logs / temporary files
+*.log
+*.tmp
+*.temp
+~$*
+
+# GIS sidecars / locks / temporary artifacts
+*.lock
+*.lck
+*.aux.xml
+*.ovr
+*.rrd
+*.qmd
+*.qgz~
+*.aprx~
+
+# Large/raw EO and raster inputs: review project-by-project before enabling.
+# Prefer explicit data provenance/access instructions over committing large source data.
+# data/raw/
+# data/external/
+# *.SAFE/
+# *.zip
+# *.tif
+# *.tiff
+# *.h5
+# *.hdf5
+# *.nc
+
+# Generated outputs: ignore only if they can be regenerated and are not release artifacts.
+# outputs/tmp/
+# outputs/cache/
+
+# IMPORTANT:
+# Do not blindly ignore all geospatial formats. Small reference vectors, test rasters,
+# metadata, and selected release outputs may legitimately belong in version control.
+# Tailor this file to each repository after reviewing provenance, licensing, size,
+# and reproducibility requirements.
