@@ -1,0 +1,33 @@
+# Project-specific Conda environment template.
+# Replace placeholders and pin scientifically consequential dependencies before release.
+name: <project-environment>
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=<major.minor>
+  - pip
+  # Add only dependencies actually required by the project.
+  # Typical geoscience examples (do not enable blindly):
+  # - numpy=<version>
+  # - pandas=<version>
+  # - scipy=<version>
+  # - matplotlib=<version>
+  # - geopandas=<version>
+  # - rasterio=<version>
+  # - xarray=<version>
+  # - rioxarray=<version>
+  # - gdal=<version>
+  # - pyproj=<version>
+  # - shapely=<version>
+  # - jupyterlab=<version>
+  # - pytest=<version>
+  # - pip:
+  #     - <pip-only-package>==<version>
+
+# Release rule:
+# 1. Record the environment actually used for the scientific release.
+# 2. Pin versions that can materially affect numerical/spatial results.
+# 3. Avoid adding unused packages.
+# 4. Test environment creation from a clean machine/environment before release.
